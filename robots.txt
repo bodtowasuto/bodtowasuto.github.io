@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodtowasuto.github.io/sitemap.xml
